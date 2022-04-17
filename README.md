@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyaki2001
-- 👀 I’m interested in C, python, java.
-- 🌱 I’m currently learning c programming
+- 👀 I’m interested in full stack web development.
+- 🌱 I’m currently learning MERN stack along with Java as a main programming language
 
 <!---
 satyaki2001/satyaki2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
