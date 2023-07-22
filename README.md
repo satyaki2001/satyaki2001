@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently a UI developer<br>🌱 I’m currently learning React.js.<br>💬 Ask me about web development<br>⚡ Fun fact - There is nothing fun about me!
+🔭 I’m currently a Full Stack
+ developer<br>🌱 I’m currently learning React.js.<br>💬 Ask me about web development<br>⚡ Fun fact - There is nothing fun about me!
 
 
 ## 🌐 Socials:
