@@ -28,7 +28,7 @@
 ☁️ Passionate about Cloud & DevOps  
 📱 Building Web & Mobile Apps  
 🚀 Always shipping new products  
-😄 Fun fact — Still searching for fun
+😄 Fun fact — Still searching for fun  
 
 ---
 
@@ -53,15 +53,15 @@
 ## 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=satyaki2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://stats-readme.vercel.app/api?username=satyaki2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyaki2001&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=satyaki2001&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=satyaki2001&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://stats-readme.vercel.app/api/top-langs/?username=satyaki2001&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyaki2001&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=satyaki2001&theme=radical&no-frame=true&margin-w=10"/>
 </p>
 
 ---
