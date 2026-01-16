@@ -50,22 +50,10 @@
 
 ---
 
-## 📊 GitHub Power Stats
+## 📊 GitHub Stats • Languages • Trophies
 
 <p align="center">
-  <img src="assets/stats.svg" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="assets/top-langs.svg" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="assets/trophies.svg" alt="GitHub Trophies"/>
+  <img src="assets/metrics.svg" alt="GitHub Metrics"/>
 </p>
 
 ---
