@@ -1,8 +1,8 @@
-name: Generate Profile Stats
+name: Generate Profile Stats Images
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -12,31 +12,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Generate Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Generate Stats Images
+        uses: rahuldkjain/github-profile-readme-generator@v1.2.1
         with:
           username: satyaki2001
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output: assets/stats.svg
-
-      - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: satyaki2001
-          token: ${{ secrets.GITHUB_TOKEN }}
-          layout: compact
-          output: assets/top-langs.svg
-
-      - name: Generate Trophies
-        uses: ryo-ma/github-profile-trophy@master
-        with:
-          username: satyaki2001
-          output: assets/trophies.svg
+          output: assets
 
       - name: Commit and Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add assets/*.svg
-          git commit -m "Update profile stats" || echo "No changes"
+          git commit -m "Update profile stats images" || echo "No changes"
           git push
