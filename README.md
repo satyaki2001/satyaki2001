@@ -34,7 +34,7 @@
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bolt_satyaki)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bolt_satyaki)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satyaki-sinha-872607195)
 
 ---
@@ -53,15 +53,11 @@
 ## 📊 GitHub Power Stats
 
 <p align="center">
-  <img src="https://stats-readme.vercel.app/api?username=satyaki2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="assets/stats.svg" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyaki2001&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://stats-readme.vercel.app/api/top-langs/?username=satyaki2001&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="assets/top-langs.svg" alt="Top Languages"/>
 </p>
 
 ---
@@ -69,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyaki2001&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="assets/trophies.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
